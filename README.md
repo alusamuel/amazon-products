@@ -114,8 +114,8 @@ function showToast(title, message) {
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/premium-product-showcase.git
-   cd premium-product-showcase
+   git clone https://github.com/alusamuel/amazon-products.git
+   cd amazon-products
    ```
 
 2. **Open the Project**:
