@@ -47,7 +47,7 @@ The application fetches product data from an external API (currently using a dem
 2. Install dependencies for the backend:
    ```bash
    cd backend
-   npm install express node-fetch cors
+   npm install express node-fetch cors dotenv
    ```
 
 3. Start the backend server using PM2:
