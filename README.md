@@ -1,9 +1,9 @@
 # Premium Product Search On Amazon
 
 ## Overview
-This project is a responsive, visually appealing web application designed to showcase premium products in an e-commerce-like interface. The application includes advanced features such as product filtering, sorting, pagination, modals for detailed product views, and interactive elements like toast notifications. The design leverages modern CSS techniques and JavaScript to create a seamless user experience.
+This project is a responsive, visually appealing web application designed to showcase premium products in an e-commerce-like interface. The application includes advanced features such as product filtering for detailed product views, and interactive elements like toast notifications. The design leverages modern CSS techniques and JavaScript to create a seamless user experience.
 
-The application fetches product data from an external API (currently using a demo API endpoint) and dynamically renders the products in a grid layout. Users can interact with the products through various actions like adding items to the cart, viewing details in a modal, and sharing or favoriting products.
+The application fetches product data from an external API (currently using a demo API endpoint) and dynamically renders the products in a grid layout. Users can interact with the products through searching.
 
 ## Technologies Used
 
