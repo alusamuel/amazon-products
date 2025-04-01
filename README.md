@@ -37,8 +37,6 @@ The application fetches product data from an external API (currently using a dem
 8. **Error Handling**:
    - Displays error messages if the API request fails or no products are found.
 
-## Code Highlights
-
 ## Installation
 1. Clone the repository:
    ```bash
