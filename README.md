@@ -29,7 +29,7 @@ The application fetches product data from an external API (currently using a dem
    - Displays a loading spinner while data is being fetched.
 
 3. **Interactive Product Cards**:
-   - Each product card includes hover effects, quick action buttons (favorite, share, compare), and detailed metadata (price, rating, availability).
+   - Each product card includes hover effects, quick action buttons, and detailed metadata (price, rating).
 
 7. **Filter and Sort Options**:
    - Includes UI elements for filtering and sorting products (functionality can be extended further).
