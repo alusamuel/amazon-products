@@ -77,7 +77,7 @@ Ensure that both the frontend and backend servers are correctly configured with 
 
 ## Video Demonstration
 
-[Insert video link here]
+[[Amazon Project](https://screenrec.com/share/pMDOVxTChf)]
 
 ## Contribution
 Feel free to fork the repository and submit pull requests with improvements.
